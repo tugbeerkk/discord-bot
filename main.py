@@ -183,4 +183,4 @@ async def stand(ctx):
         bjc = None
     except Exception as e:
         await ctx.send(f"Bir hata oluştu: {e}")
-bot.run("MTI1NTIyNjY4MDk4NTkxNTQzMw.GovcFW.sUgmgWTiA7zLZobQSZeKJ5ky-5GH-rd2C4Jk9o")
+bot.run(bot token)
